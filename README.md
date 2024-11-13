@@ -1,6 +1,6 @@
 # Prédiction du Type de Fontaine à Boire
 
-Ce projet utilise un arbre de décision pour prédire le type de fontaine (à savoir "borne", "totem", etc.) en fonction du modèle et de la commune où elle se situe. Le jeu de données utilisé est "fontaines-a-boire.csv".
+Ce projet utilise un arbre de décision pour prédire le type de fontaine (à savoir 'BORNE_FONTAINE', 'FONTAINE_2EN1', 'FONTAINE_ARCEAU', etc.) en fonction du modèle et de la commune où elle se situe. Le jeu de données utilisé est "fontaines-a-boire.csv".
 
 ## Prérequis
 
