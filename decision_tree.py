@@ -21,7 +21,7 @@ x = foutain_data[['Modèle', 'Commune']].values
 y = foutain_data['Type Objet'].values
 
 # Création de l'arbre de décision
-clf = DecisionTreeClassifier(random_state=0, max_depth=4)
+clf = DecisionTreeClassifier(random_state=0, max_depth=8)
 clf = clf.fit(x, y)
 
 # Transformer les noms de classes en chaînes de caractères

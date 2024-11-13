@@ -51,6 +51,10 @@ plt.title("Arbre de décision représentant le type de fontaines à boire en fon
 plt.show()
 ```
 
+## Lien vers l'image de l'arbre de décision
+
+![Arbre de décision](decision_tree.png)
+
 L'arbre présenté met en évidence les différentes décisions prises en fonction des caractéristiques fournies.
 
 ## Utilisation
