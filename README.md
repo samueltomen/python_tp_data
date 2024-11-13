@@ -33,7 +33,7 @@ Le prétraitement consiste à :
 
 ## Construction de l'Arbre de Décision
 
-L'arbre de décision est construit en utilisant la classe `DecisionTreeClassifier` de `scikit-learn` avec une profondeur maximale de 4.
+L'arbre de décision est construit en utilisant la classe `DecisionTreeClassifier` de `scikit-learn` avec une profondeur maximale de 8.
 
 - Caractéristiques (`x`) : `Modèle` et `Commune`
 - Cible (`y`) : `Type Objet`
